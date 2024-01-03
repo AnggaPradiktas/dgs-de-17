@@ -5,6 +5,7 @@ Misalnya kita mendapatkan suatu tugas dari tim bisnis untuk membuat laporan beru
 
 Disini kita bisa menggunakan Python untuk melakukan proses automasi pengiriman report melalui channel komunikasi tertentu misalnya Discord
 
+![alt text](images/diagram-export-1-3-2024-9_20_05-AM.png)
 
 ## Dataset
 Dataset yang akan digunakan adalah:
