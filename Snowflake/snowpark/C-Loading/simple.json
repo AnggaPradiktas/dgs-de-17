@@ -1,0 +1,35 @@
+[
+  {
+    "aircraft_type": "Fixed wing multi engine",
+    "manufacturer_name" : "BOMBARDIER INC",
+    "model_name": "BD-700-1A10",
+    "manufacturer_year": 2006,
+    "weight": "CLASS 3",
+    "number_seats": 23,
+    "engine_type": "Turbine air generator",
+    "engine_model": "BR700-710A220",
+    "engine_num": 2
+  },
+  {
+    "aircraft_type": "Fixed wing multi engine",
+    "manufacturer_name": "GULFSTREAM AEROSPACE CORP",
+    "model_name": "GVI-G650ER",
+    "manufacturer_year": 2018,
+    "weight": "CLASS 3",
+    "number_seats": 22,
+    "engine_type": "Turbine air generator",
+    "engine_model": "BR 700 SERIES",
+    "engine_num": 2
+  },
+  {
+    "aircraft_type": "Fixed wing multi engine",
+    "manufacturer_name": "LEARJET INC",
+    "model_name": "45",
+    "manufacturer_year": 2015,
+    "weight": "CLASS 3",
+    "number_seats": 12,
+    "engine_type": "Turbine air generator",
+    "engine_model": "TFE731-40BR-1",
+    "engine_num": 2
+  }
+]
