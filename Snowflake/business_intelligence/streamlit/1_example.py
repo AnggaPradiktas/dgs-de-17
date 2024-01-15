@@ -3,7 +3,8 @@ import streamlit as st
 from snowflake.snowpark.context import get_active_session
 
 # Write directly to the app
-st.title("Example Streamlit App :balloon:")
+st.title('_Streamlit_ is :blue[cool] :sunglasses:')
+st.title("Example Streamlit App :smile:")
 st.write(
     """Replace this example with your own code!
     **And if you're new to Streamlit,** check
@@ -38,7 +39,7 @@ queried_data = created_dataframe.to_pandas()
 # Create a simple bar chart
 # See docs.streamlit.io for more types of charts
 st.subheader("Number of high-fives")
-st.bar_chart(data=queried_data, x="QUARTER", y="HIGH_FIVES")
+st.bar_chart(data=queried_data, x="QUARTER", y="FIST_BUMPS")
 
 st.subheader("Underlying data")
 st.dataframe(queried_data, use_container_width=True)
